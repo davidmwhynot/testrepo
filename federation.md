@@ -1,2 +1,2 @@
 # Federation
-The social interation module.
+The social and communication module.
