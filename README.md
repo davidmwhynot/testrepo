@@ -1,2 +1,2 @@
 # Test Repo
-For git learning.
+For git tutorial.
